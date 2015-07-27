@@ -1,0 +1,12 @@
+
+
+Test gcipher working - instruction to make that work
+gcipher -C Vigenere -k cat assignment output
+
+Testing gcipher giving back output (and it does :-)
+wolfgang@enterprise:~/decryption$ gcipher -C Vigenere -k cat assignment 
+theappleisinthecornerandthepearistheretoo
+
+
+
+

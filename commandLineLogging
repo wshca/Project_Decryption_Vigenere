@@ -1,0 +1,13 @@
+Command Line Logging of the decryption process
+
+//First: Create a dictinary (filename dict) for cifer (using already existing word list from Linux)
+cifer-dict /usr/share/dict/words dict
+
+//start cifer
+
+//load dictionary
+cifer> loaddict dict
+Loading dictionary of 791159 bytes... Done.
+Indexing the dictionary... Done.
+
+
